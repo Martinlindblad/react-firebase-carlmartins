@@ -1,5 +1,10 @@
+$title: #FFCDF4;
 .App {
   text-align: center;
+}
+
+h1,h2,h3,span,p,div{
+  color: $title;
 }
 
 .App-logo {
